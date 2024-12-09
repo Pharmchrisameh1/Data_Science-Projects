@@ -1,1 +1,1 @@
-Regression is use in deternining relationships between the independent variable and the dependent variable
+Regression is used in deternining relationships between the independent variable and the dependent variable
